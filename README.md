@@ -1,2 +1,2 @@
 # GIT_learn
-Sample reop
+This is a sample readme document
